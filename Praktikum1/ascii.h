@@ -1,0 +1,1 @@
+int ascii(int s);
